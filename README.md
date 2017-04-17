@@ -29,7 +29,7 @@
 
 * 利用vue-router 实现history模式
 
-* 利用正则表达式判断页面深度 `if(pathdeep<=1) return =>目录导航 else => 导航部分替换成`回退导航`
+* 利用正则表达式判断页面深度 `if(pathdeep<=1) return =>目录导航` `else => 导航部分替换成 回退导航`
 
   ```javascript
   // 判断页面深度部分
