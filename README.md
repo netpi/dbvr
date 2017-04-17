@@ -12,7 +12,7 @@
 
 `bulma` 作为UI框架
 
-`slick-carousel` 来做图片滑动轮播
+[Swiper](https://github.com/nolimits4web/Swiper) 来做图片滑动轮播
 
 `animate.css` 来实现动画效果 (弹性滑动 / 淡入淡出)
 
@@ -23,7 +23,7 @@
 
 #### 1：首屏上半部分的广告轮播，可以左右滑动广告 和 自动轮播。
 
-利用 `slick-carousel` 实现
+利用 [Swiper](https://github.com/nolimits4web/Swiper) 实现
 
 #### 2: 中部的几个图标点进去，各自展示各自的内容，在打开的页面上，可以返回。
 
