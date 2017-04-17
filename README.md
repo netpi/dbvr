@@ -1,6 +1,6 @@
 ## 多乐VR 实现
 
-线上演示地址  https://dlvr.now.sh   源码见附件
+线上演示地址  https://dlvr.now.sh
 
 ![](https://olxvlcccu.qnssl.com/blog/8gn7j.png?imageslim)
 
